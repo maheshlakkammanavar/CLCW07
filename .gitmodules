@@ -1,4 +1,0 @@
-[submodule "mock-srv"]
-	path = mock-srv
-	url = ../cloud-extension-ecc-business-process
-	branch = mock
